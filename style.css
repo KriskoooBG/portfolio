@@ -271,67 +271,67 @@ body[data-scene="github"]{--scene-accent:#5f8967;--scene-glow:#d5e8d566}
 
 /* Палитра: лавандула и мастило */
 :root{
- --paper:#F0EFF8;
- --white:#F8F5ED;
- --ink:#29283A;
- --body:#54546A;
- --muted:#74738B;
- --line:#D8D7E6;
- --green:#E2E1F1;
- --green-deep:#555285;
- --deep:#555285;
- --lav:#E2E1F1;
- --scene-accent:#6C699C;
- --scene-glow:#E2E1F166
+ --paper:#EAF4FF;
+ --white:#F7FAFE;
+ --ink:#1F2D40;
+ --body:#4F6075;
+ --muted:#71839A;
+ --line:#D0DFEF;
+ --green:#DCEBFA;
+ --green-deep:#386A9C;
+ --deep:#386A9C;
+ --lav:#DCEBFA;
+ --scene-accent:#4D83B5;
+ --scene-glow:#D7EAFE88
 }
 body{background-color:var(--paper);color:var(--ink)}
-#home{background-color:#F0EFF8}
-#about{background-color:#F8F5ED}
-#journey{background-color:#E9E8F4}
-#skills{background-color:#E2E1F1}
-#projects{background-color:#F8F5ED}
-#direction{background-color:#E4E3F2}
-#github{background-color:#EBEAF6}
-body[data-scene="home"]{--scene-accent:#625F91;--scene-glow:#DAD9EF77}
-body[data-scene="about"]{--scene-accent:#77739F;--scene-glow:#E9E5F277}
-body[data-scene="journey"]{--scene-accent:#6C699C;--scene-glow:#DAD9EF77}
-body[data-scene="skills"]{--scene-accent:#555285;--scene-glow:#D1D0E977}
-body[data-scene="projects"]{--scene-accent:#A17A62;--scene-glow:#F0E4D777}
-body[data-scene="direction"]{--scene-accent:#555285;--scene-glow:#D8D7F077}
-body[data-scene="github"]{--scene-accent:#6A6798;--scene-glow:#E0DFF277}
-.logo span{color:#817CAF}
-nav a:hover,.nav-link:hover{color:#625F91}
-.heading h2 em,.center-head h2 em,.skills h2 em,.projects h2 em,.github h2 em{color:#7775A8}
-.button.dark{background:#29283A}
-.button.dark:hover{background:#555285}
-.button.light{background:#F8F5ED;border-color:#D8D7E6;color:#45435F}
-.panel-title>span{background:#EBEAF6;color:#555285}
-.skill>i:after{background:#706DA5}
-.skill-panel,.project{background:#F8F5ED;border-color:#DEDBEC}
-.tools{background:#E5E4F2;border-color:#D7D5E8}
-.tools li{border-color:#D2D0E5}
-.tools li>b{background:#F4F2FA;border-color:#D6D4EA;color:#555285}
-.project-art{background:#E7E6F4}
-.project-art .game{border-color:#F8F5ED}
-.future-projects,.next-project{border-color:#C9C7E0}
-.future-arrow,.next-project>span{background:#E8E7F5;color:#555285}
-.direction{background:#E4E3F2}
-.direction-grid h2 em{color:#7775A8}
-.direction-kicker,.direction-grid>div:first-child>small{color:#7775A8}
-.direction-tags span,.chips span{border-color:#C9C7E0;color:#555285}
-.learning-status,.learning{background:#F3F2F9;border-color:#D4D2E7}
-.learning-status small,.learning small{color:#7775A8}
-.github-card{background:#E6E5F3}
-.repo-card{background:#F8F5ED;border-color:#D7D5E8}
-.repo-head,.repo-row{border-color:#E5E3EF}
-.repo-head i{background:#B9B5D9}
+#home{background-color:#EAF4FF}
+#about{background-color:#F7FAFE}
+#journey{background-color:#E1EFFD}
+#skills{background-color:#ECF5FE}
+#projects{background-color:#F5F9FE}
+#direction{background-color:#E2F0FC}
+#github{background-color:#EDF6FE}
+body[data-scene="home"]{--scene-accent:#4D83B5;--scene-glow:#D5EAFE88}
+body[data-scene="about"]{--scene-accent:#5E86AA;--scene-glow:#DDEBFA88}
+body[data-scene="journey"]{--scene-accent:#4779A7;--scene-glow:#CFE5FA88}
+body[data-scene="skills"]{--scene-accent:#3E6F9B;--scene-glow:#D5E8F888}
+body[data-scene="projects"]{--scene-accent:#5688B6;--scene-glow:#DCEBFA88}
+body[data-scene="direction"]{--scene-accent:#3D739F;--scene-glow:#CFE4F788}
+body[data-scene="github"]{--scene-accent:#4C7FA9;--scene-glow:#D8EAF988}
+.logo span{color:#4D83B5}
+nav a:hover,.nav-link:hover{color:#386A9C}
+.heading h2 em,.center-head h2 em,.skills h2 em,.projects h2 em,.github h2 em{color:#5684AD}
+.button.dark{background:#1F2D40}
+.button.dark:hover{background:#386A9C}
+.button.light{background:#F7FAFE;border-color:#D0DFEF;color:#304E6B}
+.panel-title>span{background:#E5F1FC;color:#386A9C}
+.skill>i:after{background:#5688B6}
+.skill-panel,.project{background:#F7FAFE;border-color:#D5E3F1}
+.tools{background:#E8F2FC;border-color:#D1E0EF}
+.tools li{border-color:#D0DFEF}
+.tools li>b{background:#F5F9FE;border-color:#D2E1F0;color:#386A9C}
+.project-art{background:#E5F1FC}
+.project-art .game{border-color:#F7FAFE}
+.future-projects,.next-project{border-color:#C6D9EA}
+.future-arrow,.next-project>span{background:#E5F1FC;color:#386A9C}
+.direction{background:#E2F0FC}
+.direction-grid h2 em{color:#5684AD}
+.direction-kicker,.direction-grid>div:first-child>small{color:#5684AD}
+.direction-tags span,.chips span{border-color:#C6D9EA;color:#386A9C}
+.learning-status,.learning{background:#F1F7FD;border-color:#D1E1F0}
+.learning-status small,.learning small{color:#5684AD}
+.github-card{background:#E8F3FC}
+.repo-card{background:#F7FAFE;border-color:#D1E0EF}
+.repo-head,.repo-row{border-color:#E0EAF4}
+.repo-head i{background:#89B4D8}
 .repo-head i:nth-child(2){background:#E5BE69}
-.repo-head i:nth-child(3){background:#9BB9A2}
-.repo-row>b,.repo-row>i{color:#6A6798}
-html{scrollbar-color:#817CAF #E8E7F1}
-html::-webkit-scrollbar-track{background:#E8E7F1}
-html::-webkit-scrollbar-thumb{background:#817CAF;border-color:#E8E7F1}
-html::-webkit-scrollbar-thumb:hover{background:#555285}
-footer{border-color:#D8D7E6}
+.repo-head i:nth-child(3){background:#8FB9AF}
+.repo-row>b,.repo-row>i{color:#4C7FA9}
+html{scrollbar-color:#78A6CD #E4EFF9}
+html::-webkit-scrollbar-track{background:#E4EFF9}
+html::-webkit-scrollbar-thumb{background:#78A6CD;border-color:#E4EFF9}
+html::-webkit-scrollbar-thumb:hover{background:#386A9C}
+footer{border-color:#D0DFEF}
 @media(prefers-reduced-motion:reduce){*{scroll-behavior:auto}}
 
